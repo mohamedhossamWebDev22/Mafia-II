@@ -15,8 +15,7 @@ const Gameplay = () => {
           <div className="first">
             <h1 className="titleGP">Gameplay</h1>
             <iframe
-              width={676}
-              height={380}
+              
               src="https://www.youtube.com/embed/MGK5KrSitF0"
               title="Mafia 2 - Full Game Walkthrough in 4K"
               frameBorder={0}
@@ -29,6 +28,7 @@ const Gameplay = () => {
           </div>
         </div>
       </Animator>
+      
     </>
   );
 };
