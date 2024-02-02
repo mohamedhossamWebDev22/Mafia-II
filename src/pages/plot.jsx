@@ -24,12 +24,7 @@ const Plot = () => {
               its world is navigated on foot or by vehicle. The player character's
               criminal activities may incite a response from law enforcement
               agencies, measured by a "wanted" system that governs the aggression
-              of their response ¹. I hope this helps! Source: Conversation with
-              Bing, 2/1/2024 (1) Mafia II - Wikipedia.
-              https://en.wikipedia.org/wiki/Mafia_II. (2) Mafia II | Mafia Wiki |
-              Fandom. https://mafiagame.fandom.com/wiki/Mafia_II. (3) Mafia II
-              (Video Game 2010) - Plot Summary - IMDb.
-              https://www.imdb.com/title/tt1181833/plotsummary/.
+              of their response ¹. I hope this helps!
             </p>
           </div>
           <div className="second">
